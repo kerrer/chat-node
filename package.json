@@ -3,7 +3,7 @@
 "version": "0.0.1",
 "description": "Minimalist multi-room chat server",
 "dependencies": {
-"socket.io": "git+https://github.com/LearnBoost/socket.io.git",
-"mime": "git+ssh://git@github.com:broofa/node-mime.git"
+"socket.io": "~0.9.6",
+"mime": "~1.2.7"
 }
 }
